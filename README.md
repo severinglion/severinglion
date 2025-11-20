@@ -1,10 +1,32 @@
-# 👋 Hi, I'm Joshua (Joshua Bunt)
+# 👋 Hi, I'm Joshua (Josh) Bunt
 
-**Full Stack Engineer** focused on cloud-native systems, automation, and AI agent orchestration.  
-Currently building **Crafty-Agents** — a modular framework for managing MCP-based AI agents using Ollama and OpenAI.
+**Full-Stack Engineer & Cloud Architect**  
+I build backend systems, serverless architectures, and automation pipelines that improve business operations for small teams and fast-moving companies.
 
-- 🧰 **Tech stack:** TypeScript · Node.js · Next.js · Docker · AWS · Redis · MySQL  
-- 💡 **Interests:** Agent frameworks, DevOps automation, scalable architectures  
-- 🎥 **Demo coming soon** for Crafty-Agents (POC in progress)  
+### 🔥 Currently Focused On
+- Backend & infrastructure development for consulting work  
+- Serverless architectures using AWS Lambda, DynamoDB, API Gateway  
+- Automation tools, microservices, and internal developer tooling  
+- Improving cloud cost efficiency and system reliability  
+- Building production-ready examples in Node.js + TypeScript  
+- *(Open to freelance & consulting opportunities)*
 
-📫 Reach me at **bunt.joshua@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/joshua-bunt-215a40201)
+### 🔧 Tech Stack
+**Languages & Frameworks:**  
+TypeScript · Node.js · Next.js · Python
+
+**Cloud & Infrastructure:**  
+AWS (Lambda, DynamoDB, API Gateway, S3, CloudFront, Cognito, ECS & Fargate)  
+Docker · Serverless architecture · Redis  
+MySQL/Postgres · SQLite
+
+### 💡 Interests
+Backend architecture · DevOps automation · Cloud cost optimization  
+Systems design · AI tooling (long-term/experimental)
+
+### 🌐 Personal Website  
+https://bunt-tech.ca *(work in progress)*
+
+### 📫 Contact  
+**Email:** bunt.joshua@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/joshua-bunt
