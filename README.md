@@ -9,7 +9,6 @@ I build backend systems, serverless architectures, and automation pipelines that
 - Automation tools, microservices, and internal developer tooling  
 - Improving cloud cost efficiency and system reliability  
 - Building production-ready examples in Node.js + TypeScript  
-- *(Open to freelance & consulting opportunities)*
 
 ### 🔧 Tech Stack
 **Languages & Frameworks:**  
@@ -25,7 +24,7 @@ Backend architecture · DevOps automation · Cloud cost optimization
 Systems design · AI tooling (long-term/experimental)
 
 ### 🌐 Personal Website  
-https://bunt-tech.ca *(work in progress)*
+https://bunt-tech.ca
 
 ### 📫 Contact  
 **Email:** bunt.joshua@gmail.com  
